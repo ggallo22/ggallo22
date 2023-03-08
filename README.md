@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/51Rz.gif)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FJTUET3zsjb65q%2F200.gif&f=1&nofb=1&ipt=9d576d06c93e9c2e14a680fe227b36601985b40d910b86ce3740f430007a8815&ipo=images)
 <h1 align="center">Hello there! 👋, my name is Gian Gallo</h1>
 <h3 align="center">A multimedia designer and front end developer from Vancouver, BC</h3>
 
