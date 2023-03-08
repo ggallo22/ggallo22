@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Gian Gallo</h1>
-<h3 align="center">A multimedia designer and front end developer from Vancouver</h3>
+<h3 align="center">A multimedia designer and front end developer from Vancouver, BC</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
