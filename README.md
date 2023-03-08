@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, my name is Gian Gallo</h1>
 <h3 align="center">A multimedia designer and front end developer from Vancouver, BC</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **Dishcovery Recipe**
+
+- 👨‍💻 All of my projects are available at [giangallo.com](giangallo.com)
+
+<h3 align="left">Let's connect!:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gian gallo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gian gallo" height="30" width="40" /></a>
 <a href="https://instagram.com/giangallo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giangallo_" height="30" width="40" /></a>
