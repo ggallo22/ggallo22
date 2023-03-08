@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Gian Gallo</h1>
+<h1 align="center">Hello there! 👋, my name is Gian Gallo</h1>
 <h3 align="center">A multimedia designer and front end developer from Vancouver, BC</h3>
 
 - 🔭 I’m currently working on **Dishcovery Recipe**
@@ -6,9 +6,8 @@
 - 👨‍💻 All of my projects are available at [giangallo.com](giangallo.com)
 
 
-<img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="person showing code" height="auto" width="400" />
+<img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="person showing code" height="auto" width="500" />
 
-<br><br>
 
 <h3 align="left">Let's connect!:</h3>
 <p align="left">
